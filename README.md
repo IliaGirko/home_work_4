@@ -90,6 +90,8 @@ poetry install
 {'id': 41428829, 'state': 'EXECUTED', 'date': '2019-07-03T18:35:29.512364'}
 ] 
 ```
+## Code coverage
+Code coverage достигает 92%
 
 ## Лицензии
 Проект распространяеется под [лицензией MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
